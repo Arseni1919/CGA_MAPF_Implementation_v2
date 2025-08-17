@@ -240,11 +240,14 @@ params = {
 If you use this implementation in your research, please cite:
 
 ```bibtex
-@inproceedings{macga2025,
-  title={Multi-Agent Corridor Generating Algorithm},
-  author={[Author Name]},
-  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-25)},
-  year={2025}
+@misc{pertzovsky2025multiagentcorridorgeneratingalgorithm,
+      title={Multi-Agent Corridor Generating Algorithm}, 
+      author={Arseniy Pertzovsky and Roni Stern and Roie Zivan and Ariel Felner},
+      year={2025},
+      eprint={2410.12397},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2410.12397}, 
 }
 ```
 
